@@ -1,2 +1,3 @@
-#!/bin/ -1
-sh -c "Hello world my name is $Godwin"
+#!/bin/sh -l
+
+sh -c "echo Hello world my name is $INPUT_MY_NAME"
