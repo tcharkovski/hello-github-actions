@@ -1,2 +1,2 @@
 #!/bin/ -1
-sh -c "Hello world my name is Godwin"
+sh -c "Hello world my name is $Godwin"
